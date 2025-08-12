@@ -36,7 +36,7 @@ export default function Skills(){
         <aside>
           <div className="card fade-up">
             <h3>Education</h3>
-            <p><strong>B.Tech (Information Technology)</strong><br/>SSN College of Engineering (2022–2026)<br/>CGPA: 7.63 (up to 5th sem)</p>
+            <p><strong>B.Tech (Information Technology)</strong><br/>SNS College of Engineering (2022–2026)<br/>CGPA: 7.63 (up to 5th sem)</p>
 
             <hr/>
 
